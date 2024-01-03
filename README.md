@@ -4,6 +4,7 @@ hi, i'm @dyune :)
 - currently learning -> Django framework
 - not *currently* collaborating
 - i like: gaming, gymming, sleeping, eating, among many other things
+
 <!---
 dyune/dyune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
