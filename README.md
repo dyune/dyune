@@ -1,7 +1,7 @@
 hi, i'm @dyune :)
 - i'm a SWE student
 - i'm interested in (jan '24) -> python, java, go, building APIs / apps, getting into big bad distributed systems
-- currently learning -> Django framework
+- currently learning -> Django framework, how to make a webapp
 - not *currently* collaborating
 - i like: gaming, gymming, sleeping, eating, among many other things
 
