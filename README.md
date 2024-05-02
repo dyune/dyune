@@ -1,6 +1,7 @@
 hi, i'm @dyune :) ✨
 - a software eng student at McGill 🏫
 - i use: java, python, django, html/css/javascript, react.js 💻
+- i like dragonboating!
 
 <!---
 dyune/dyune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
