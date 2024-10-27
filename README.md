@@ -1,6 +1,6 @@
 hi
 - software b.eng at mcgill
-- i use: java, python, django, react
+- tools: java, python, django, react, django DRF
 - i like dragonboating and bouldering
 - CURRENTLY LEARNING: next.js and postgreSQL
 
