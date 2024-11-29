@@ -1,6 +1,7 @@
 hi
 - software b.eng at mcgill
-- tools: java, python, django, react, django DRF
+- languages: java, python, java/typescript
+- tools: react, fastapi, django, django rest framework
 - i like dragonboating and bouldering
 - CURRENTLY LEARNING: next.js and postgreSQL
 
