@@ -3,7 +3,7 @@ hi
 - languages: java, python, javascript
 - tools: react, fastapi, django, django rest framework
 - i like dragonboating and bouldering
-- CURRENTLY LEARNING: rust
+- CURRENTLY LEARNING: rust and postgreSQL
 
 <!---
 dyune/dyune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
