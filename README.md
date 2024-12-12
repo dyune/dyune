@@ -1,4 +1,4 @@
-<h1>Hi, I'm David Wang</h1>
+<h1>Hi, I'm David Wang 😎</h1>
 
 ## **About Me**
 🎓 **Software Engineering Student** at **McGill University**  
