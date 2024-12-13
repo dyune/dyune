@@ -1,10 +1,14 @@
 <h1>Hi, I'm David Wang 😎</h1>
 
 ## **About Me**
-🎓 **Software Engineering Student** at **McGill University**   
+🎓 **Software Engineering Student** at **McGill University**  
+
 🌱 **Currently learning**: **Rust** & **PostgreSQL**
-🌿 Working on a smart money-saving grocery tool.
+
+🌿 **Working on:** a smart money-saving grocery tool.
+
 🏄‍♂️ I love **Dragonboating** and **Bouldering** (when I'm not coding!)  
+
 🫠 I'm a JetBrains addict
 
 ---
