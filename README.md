@@ -5,6 +5,7 @@
 💻 Passionate about **Software Development** and **Full-Stack Web Development**  
 🌱 **Currently learning**: **Rust** & **PostgreSQL**  
 🏄‍♂️ I love **Dragonboating** and **Bouldering** (when I'm not coding!)  
+🫠 I'm a JetBrains addict
 
 ---
 
