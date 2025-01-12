@@ -1,17 +1,20 @@
-<h1>Hi, I'm David Wang, Software Engineering student based in Montreal</h1>
+<h1>hi, i'm David Wang <br/> software engineering student based in montréal
+</h1>
 
-## **About Me**
-**I study** at McGill University 
+## **about me**
+**i study** at McGill University 
 
-**Currently learning**: Rust & PostgreSQL
+**currently learning**: Rust & PostgreSQL
 
-**Working on:** a smart money-saving grocery tool.
+**working on:** a smart money-saving grocery tool.
+
+you can also talk to me in english and français
 
 
 
 ---
 
-## **Programming Languages**
+## **programming languages**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -22,7 +25,7 @@
 
 ---
 
-## **Tools & Frameworks**
+## **tools & frameworks**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="50" height="50"/>
@@ -32,7 +35,6 @@
 </p>
 
 ---
+ 
 
-this is my linkedin (if ever)
-https://www.linkedin.com/in/dajiwang7707/
 
