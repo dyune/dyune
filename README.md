@@ -35,11 +35,6 @@
 
 ---
 
-## **Connect With Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/dajiwang7707/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+this is my linkedin (if ever)
+https://www.linkedin.com/in/dajiwang7707/
 
----
