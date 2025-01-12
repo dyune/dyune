@@ -1,9 +1,9 @@
-<h1>Hi, I'm David Wang 😎</h1>
+<h1>Hi, I'm David Wang, Software Engineering student based in Montreal</h1>
 
 ## **About Me**
-**Software Engineering Student** at **McGill University**  
+**I study** at McGill University 
 
-**Currently learning**: **Rust** & **PostgreSQL**
+**Currently learning**: Rust & PostgreSQL
 
 **Working on:** a smart money-saving grocery tool.
 
