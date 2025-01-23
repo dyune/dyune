@@ -4,7 +4,7 @@
 ## **about me**
 **i study** at McGill University 
 
-**currently learning**: Rust & PostgreSQL
+**currently learning**: PostgreSQL & Spring
 
 **working on:** a smart money-saving grocery tool.
 
