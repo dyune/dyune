@@ -4,7 +4,7 @@
 ## **about me**
 **i study** at McGill University 
 
-**currently learning**: PostgreSQL & Spring
+**currently learning**: Go
 
 **working on:** a smart money-saving grocery tool.
 
