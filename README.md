@@ -1,7 +1,7 @@
 
 ### Hi, I'm David Wang<br/>
 Studying SWE @ McGill University<br/>
-Feel free to reach out to me on Linkedin
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)
 
 ### **Programming Languages**
 ___
