@@ -14,7 +14,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
-### **Tools & Drameworks**
+  ### **Tools & Frameworks**
 ___
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
