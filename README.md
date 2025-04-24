@@ -1,7 +1,8 @@
 
-### Hi, I'm David Wang<br/>
-Studying SWE @ McGill University<br/>
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)
+# Hi, I'm David Wang<br/>
+* 📙 Studying SWE @ McGill University<br/>
+* 🌿 I enjoy coming up with fun and useful coding projects :)
+* 🐱 Fun fact about me, I have 2 cats!
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -24,6 +25,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7
        alt="DigitalOcean" width="50" height="50" style="margin-right:10px;"/>
 </p>
 
- 
+_Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
+
+
 
 
