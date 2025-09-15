@@ -1,5 +1,8 @@
 
 # Hi, I'm David Wang<br/>
+
+_Currently a IaaS Software Developer Intern @ [BDC](https://www.bdc.ca/en)_
+
 * 📙 Studying SWE @ McGill University<br/>
 * 🌿 I enjoy suffering by learning new stuff (no pain, no gain!)
 * 🐱 Fun fact about me, I have 2 cats!
