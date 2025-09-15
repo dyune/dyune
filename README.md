@@ -1,7 +1,7 @@
 
 # Hi, I'm David Wang<br/>
 * 📙 Studying SWE @ McGill University<br/>
-* 🌿 I enjoy coming up with fun || useful coding projects :)
+* 🌿 I enjoy suffering by learning new stuff (no pain, no gain!)
 * 🐱 Fun fact about me, I have 2 cats!
 
 <p align="left">
