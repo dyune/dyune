@@ -1,13 +1,12 @@
 
-# Hi, I'm David Wang<br/>
+# hi, i'm david wang <br/>
 
-_Currently a IaaS Software Developer Intern @ [BDC](https://www.bdc.ca/en)_
+_currently a software developer intern @ [BDC](https://www.bdc.ca/en)_
 
-* 📙 Studying SWE @ McGill University<br/>
-* 🌿 I enjoy suffering by learning new stuff (no pain, no gain!)
-* 🐱 Fun fact about me, I have 2 cats!
+* studying SWE @ mcgill university<br/>
+* i have two cats
 
-### I use these the most:
+### i use these the most:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
        alt="Python" width="50" height="50" style="margin-right:20px;"/>
@@ -25,7 +24,7 @@ _Currently a IaaS Software Developer Intern @ [BDC](https://www.bdc.ca/en)_
        alt="DigitalOcean" width="50" height="50" style="margin-right:20px;"/>
 </p>
 
-_Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
+_feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
 
 
 
