@@ -1,7 +1,8 @@
 
 # hi, i'm david wang <br/>
 
-_currently a software developer intern @ [BDC](https://www.bdc.ca/en)_
+_currently a software developer intern @ [BDC](https://www.bdc.ca/en)_<br/>
+_incoming backend developer @ [Intact](https://www.intactfc.com/)_ 
 
 * studying SWE @ mcgill university<br/>
 * i have two cats
