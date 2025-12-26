@@ -1,13 +1,13 @@
 
-# hi, i'm david wang <br/>
+# Hi, I'm David Wang <br/>
+_Backend Developer Intern @ [Intact](https://www.intactfc.com/)_ <br/>
+_Prev @ [BDC](https://www.bdc.ca/en)_
 
-_currently a software developer intern @ [BDC](https://www.bdc.ca/en)_<br/>
-_incoming backend developer @ [Intact](https://www.intactfc.com/)_ 
 
-* studying SWE @ mcgill university<br/>
-* i have two cats
+* Studying SWE @ McGill University<br/>
+* I have two cats
 
-### i use these the most:
+### I use these the most:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
        alt="Python" width="50" height="50" style="margin-right:20px;"/>
@@ -25,7 +25,7 @@ _incoming backend developer @ [Intact](https://www.intactfc.com/)_
        alt="DigitalOcean" width="50" height="50" style="margin-right:20px;"/>
 </p>
 
-_feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
+_Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
 
 
 
