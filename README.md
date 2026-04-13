@@ -6,6 +6,7 @@ _Prev @ [BDC](https://www.bdc.ca/en)_
 
 * Studying SWE @ McGill University<br/>
 * I have two cats
+* Currently learning: Rust & Go
 
 ### I use these the most:
 <p align="left">
