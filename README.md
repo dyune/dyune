@@ -21,8 +21,6 @@ _Prev @ [BDC](https://www.bdc.ca/en)_
        alt="Spring" width="50" height="50" style="margin-right:20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
        alt="React" width="50" height="50" style="margin-right:20px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"
-       alt="DigitalOcean" width="50" height="50" style="margin-right:20px;"/>
 </p>
 
 _Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
