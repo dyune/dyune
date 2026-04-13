@@ -7,6 +7,7 @@ _Prev @ [BDC](https://www.bdc.ca/en)_
 * Studying SWE @ McGill University<br/>
 * I have two cats
 * Currently learning: Rust
+* Currently working on: a gym session logging Discord bot for my dragonboat team
 
 ### I use these the most:
 <p align="left">
