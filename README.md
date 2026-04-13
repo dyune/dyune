@@ -28,7 +28,7 @@ _Prev Software Eng. Intern @ [BDC](https://www.bdc.ca/en)_
 * [gym-factions-bot](https://github.com/dyune/gym-factions-bot)
 * [minos](https://github.com/dyune/minos)
 
-_If you wanna chat or have questions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
+_Want to chat or have questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dajiwang7707/)_
 
 
 
