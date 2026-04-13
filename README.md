@@ -1,5 +1,5 @@
 
-# Hi, I'm David Wang <br/>
+# David Wang <br/>
 _Software Eng. Intern @ [Intact](https://www.intactfc.com/)_ <br/>
 _Prev Software Eng. Intern @ [BDC](https://www.bdc.ca/en)_
 
